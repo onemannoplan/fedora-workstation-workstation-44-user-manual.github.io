@@ -1,1 +1,1 @@
-# fedora-44-user-manual.github.io
+# fedora-workstation-44-user-manual.github.io
